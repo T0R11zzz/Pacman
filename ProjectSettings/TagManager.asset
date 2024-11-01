@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Wall
   - Walkable
+  - PacStudent
+  - Cherry
   layers:
   - Default
   - TransparentFX
@@ -42,4 +44,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 2871463269
     locked: 0

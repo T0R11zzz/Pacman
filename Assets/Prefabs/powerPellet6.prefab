@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5034896512988757077}
   - component: {fileID: 8350807015028109653}
   - component: {fileID: 6094227743145121844}
-  - component: {fileID: 915829250634316799}
+  - component: {fileID: -3311443902195180169}
   m_Layer: 0
   m_Name: powerPellet6
   m_TagString: Walkable
@@ -110,7 +110,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!135 &915829250634316799
+--- !u!135 &-3311443902195180169
 SphereCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -125,9 +125,9 @@ SphereCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Radius: 1
+  m_Radius: 0.3
   m_Center: {x: 0, y: 0, z: 0}
