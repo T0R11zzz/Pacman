@@ -1,2 +1,15 @@
 fileFormatVersion: 2
 guid: f4334a36f2f9def42a7ef7996f11273a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wallCollisionEffectPrefab: {fileID: 8235817029158814649, guid: d51f21ab64399054cbcbba0daac2a22a, type: 3}
+  - wallCollisionSound: {fileID: 8300000, guid: b25dbd56a31e9454ab4b41e05d9a1a44, type: 3}
+  - HUD: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
